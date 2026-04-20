@@ -1,4 +1,4 @@
-# PMC 批量文献下载指南：PMC Bulk Article Download Guide 
+# PMC 批量文献下载指南：PMC Bulk Article Download
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
@@ -7,13 +7,6 @@
 </p>
 
 ---
-
-
-
-
-
-
-
 
 This repository provides a reliable workflow for bulk downloading PMC articles following the major NCBI architectural changes on **April 13, 2026**. 
 
