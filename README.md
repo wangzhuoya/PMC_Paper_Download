@@ -1,7 +1,24 @@
 # PMC 批量文献下载指南：PMC Bulk Article Download Guide 
-(2026 Transition Version)
 
-[中文文档](./readme_CN.md)
+<p align="center">
+  <a href="https://opensource.org/licenses/MIT"><img src="https://img.shields.io/badge/License-MIT-yellow.svg" alt="License: MIT"></a>
+  <a href="https://pmc.ncbi.nlm.nih.gov/tools/ftp/#pad2026"><img src="https://img.shields.io/badge/NCBI--Update-April%202026-blue" alt="Update"></a>
+  <a href="./readme_CN.md"><img src="https://img.shields.io/badge/Readme-中文文档-red.svg" alt="中文文档"></a>
+</p>
+
+---
+
+
+
+
+
+
+
+
+This repository provides a reliable workflow for bulk downloading PMC articles following the major NCBI architectural changes on **April 13, 2026**. 
+
+> 🔔 **Crucial Alert**: Legacy FTP paths used in this guide will be **permanently removed in August 2026**. Use this method to migrate your data as soon as possible.
+
 
 ## 1. Project Background & Important Notices
 ### 1.1 NCBI Announcement
