@@ -1,4 +1,7 @@
-# PMC Bulk Article Download Guide (2026 Transition Version)
+# PMC 批量文献下载指南：PMC Bulk Article Download Guide 
+(2026 Transition Version)
+
+[中文文档](./readme_CN.md)
 
 ## 1. Project Background & Important Notices
 ### 1.1 NCBI Announcement
